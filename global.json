@@ -1,0 +1,6 @@
+{
+	"svgDir":"svg",
+	"pngDir":"export",
+	"environmentTemplate":"EnvironmentDeck.TEMPLATE.svg",
+	"extraBleed":"yes"
+}
