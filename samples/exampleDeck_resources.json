@@ -1,0 +1,33 @@
+{
+	"name": "Test Environment",
+	"artBy": "Some Tallented Person",
+	"resourceDir": "images",
+	"svgDir": "svg",
+	"pngDir": "png",
+	"HungryPandas": {
+		"image": "pandas.png"
+    	},
+	"Bamboo": {
+	 	"image": "bamboo.png"
+    	},
+  	"PlasticUtensils": {
+		"image": "plastic.png"
+    	},
+	"NordicTeen": {
+		"image": "gt.png"
+	},
+    	"Conglomerate": {
+		"image": "company.png"
+	},
+	"NationalGovernment": {
+    		"image": "capitalbuilding.png"
+    	},
+	"Dolphins": {
+	"image": "dolphin.png"
+    	},
+	"Fish": {
+	    		"image": "fish.png",
+	    		"height": "200",
+	    		"width": "300"
+	}
+}

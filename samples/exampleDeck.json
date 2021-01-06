@@ -1,0 +1,100 @@
+{
+    "name": "Test Environment",
+    "kind": "Environment",
+    "expansionIdentifier": "Creator Tool",
+    "backgroundColor": "E2BA6E",
+    "difficulty": 2,
+    "cards": [
+        {
+            "identifier": "HungryPandas",
+            "count": 2,
+            "title": "Hungry Pandas",
+            "keywords": [
+                "panda",
+                "nature"
+            ],
+            "body": [
+                "At the start of the enviornment turn, if no bamboo cards are in play Hungry Pandas deal {H} hero targets 1 point of gnawing damage.",
+                "At the end of the environment turn, destroy a bamboo card."
+            ],
+            "flavorText": "It turns out that pandas aren't really picky eaters after all.",
+            "hitpoints": 8
+        },
+        {
+            "identifier": "Bamboo",
+            "count": 2,
+            "title": "Bamboo",
+            "keywords": [
+                "bamboo",
+                "nature"
+            ],
+            "body": "When this card enters play, destroy all plastic cards",
+            "flavorText": "Bamboo.  The sustainable solution."
+        },
+        {
+            "identifier": "PlasticUtensils",
+            "count": 2,
+            "title": "Plastic Utensils",
+            "keywords": [
+                "plastic"
+            ],
+            "body": "At the beginning of the envionrment turn, Plastic Utensils deals 1 pyschic damage to all environment targets.",
+            "flavorText": "Convenience is king."
+        },
+        {
+            "identifier": "NordicTeen",
+            "count": 1,
+            "title": "Nordic Teen",
+            "hitpoints": 7,
+            "keywords": [
+                "Eco Warrior"
+            ],
+            "body": [
+            	"When a nature target would take damage, reduce that damage by 1 and direct it to Nordic Teen.",
+            	"At the end of the envionrment turn, Nordic Teen recovers 1 HP."
+            ],
+            "flavorText": "Fighting the good fight."
+        },
+        {
+            "identifier": "Conglomerate",
+            "count": 2,
+            "title": "Conglomerate",
+            "hitpoints": "9",
+            "body": [
+            	"When this card enters play, destroy a nature card.",
+            	"At the end of the envionrment turn, Conglomerate deals each environment target 1 toxic damage."
+            ],
+            "flavorText": "Yeah, but what about our profits?"
+        },
+        {
+            "identifier": "NationalGovernment",
+            "count": 2,
+            "title": "National Government",
+            "body": "This card is immune to the effects of all other environment cards",
+            "flavorText": "I don't know, that seems really difficult.  Someone else figure it out."
+        },
+        {
+            "identifier": "Dolphins",
+            "count": 1,
+            "title": "Dolphins",
+            "keywords": [
+            	"dolphin"
+            ],
+            "body": [
+            	"When a fish card enters play, place it under dolphins.",
+            	"When three fish cards are under dolphins, remove dolphins and the cards beneath it from the game"
+            ],
+            "flavorText": "So long.  And thanks."
+        },
+        {
+            "identifier": "Fish",
+            "count": 3,
+            "title": "Fish",
+            "keywords": [
+            	"fish"
+            ],
+            "body": "When this card enters play, if no dolphin card is in play deal 1 hero target {H*1} bludgeoning damage and place this card at the bottom of the environment deck.",
+            "flavorText": "Nothing quite as warm as a slap from a trout."
+        }
+      ]
+}
