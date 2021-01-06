@@ -82,7 +82,7 @@
             ],
             "body": [
             	"When a fish card enters play, place it under dolphins.",
-            	"When three fish cards are under dolphins, remove dolphins and the cards beneath it from the game"
+            	"When three fish cards are under dolphins, remove dolphins and the cards beneath it from the game."
             ],
             "flavorText": "So long.  And thanks."
         },
@@ -93,7 +93,7 @@
             "keywords": [
             	"fish"
             ],
-            "body": "When this card enters play, if no dolphin card is in play deal 1 hero target {H*1} bludgeoning damage and place this card at the bottom of the environment deck.",
+            "body": "When this card enters play, if no dolphin card is in play fish deals 1 hero target {H*1} bludgeoning damage and place this card at the bottom of the environment deck.",
             "flavorText": "Nothing quite as warm as a slap from a trout."
         }
       ]
