@@ -1,6 +1,8 @@
 {
 	"svgDir":"svg",
 	"pngDir":"export",
-	"environmentTemplate":"EnvironmentDeck.TEMPLATE.svg",
-	"extraBleed":"yes"
+	"cardTemplate":"Card.TEMPLATE.svg",
+	"extraBleed":"yes",
+	"keepSVG": "yes",
+	"portableSVG": "no"
 }
